@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Assets/ToolBar.png</file>
+        <file>TopToolBar.qml</file>
+        <file>BackCalculation.qml</file>
+        <file>Result.qml</file>
+        <file>BackCalculator.qml</file>
+        <file>Assets/ChangeSign.png</file>
+        <file>Assets/Brackets.png</file>
+        <file>Assets/Division.png</file>
+        <file>Assets/Equal.png</file>
+        <file>Assets/Minus.png</file>
+        <file>Assets/Multiple.png</file>
+        <file>Assets/Plus.png</file>
+        <file>Assets/Proccent.png</file>
+        <file>ButtonAction.qml</file>
+        <file>ButtonsActions.qml</file>
+        <file>CircleButton.qml</file>
+        <file>SimpleButton.qml</file>
+        <file>ButtonsReplacer.qml</file>
+        <file>ButtonsSimple.qml</file>
+        <file>CancelButton.qml</file>
+        <file>Assets/Cancel.png</file>
+        <file>Body_1.qml</file>
+        <file>Body_2.qml</file>
+        <file>CalculationLine.qml</file>
+        <file>SecretWindow.qml</file>
+    </qresource>
+</RCC>
