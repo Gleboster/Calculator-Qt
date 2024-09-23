@@ -20,6 +20,6 @@ CircleButton{
     {
         source: parent.sourceActionImage
         anchors.fill: parent
-        anchors.margins: 12
+        anchors.margins: 15
     }
 }

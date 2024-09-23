@@ -19,7 +19,7 @@ CircleButton {
 
         color: parent.containsPress ? colorTextPressed : colorTextDefault
 
-        font.family: "Open Sans"
+        font.family: "Open Sans Semibold"
         font.weight: Font.DemiBold
         font.pixelSize: 24
         font.letterSpacing: 1

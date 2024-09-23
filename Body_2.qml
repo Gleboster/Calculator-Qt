@@ -5,7 +5,7 @@ import QtQuick.Controls 2.1
 import QtQuick.Layouts 1.1
 
 Text {
-    font.family: "Open Sans"
+    font.family: "Open Sans Semibold"
     font.weight: Font.DemiBold
     font.pixelSize: 20
     font.letterSpacing: 0.5
